@@ -1,0 +1,5 @@
+GRPC? -> A cool way of making different processes communicate.
+
+It's substitude for REST
+    JSON <===> protocol Buffers
+    HTTP  <==> custom Protocol
